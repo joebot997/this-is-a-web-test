@@ -1,2 +1,2 @@
 # hi
-im just trying out code for a website maybe
+# im just trying out code for a website maybe
